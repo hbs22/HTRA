@@ -1,8 +1,8 @@
-# BGS
+# HTRA
 
 This repository contains the official implementation of the paper:
 
-**Bottleneck-guided skip modulation and Radius-Aware Supervision for Pulmonary Tubular Tree Segmentation**
+**Recovering Peripheral Branches in Pulmonary Tubular Tree Segmentation via Transformer-Guided Attention and Radius-Aware Supervision**
 
 ## Code Availability
 
